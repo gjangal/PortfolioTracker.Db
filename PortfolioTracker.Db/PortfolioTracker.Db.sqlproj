@@ -64,6 +64,8 @@
   <ItemGroup>
     <Build Include="Tables\Lot.sql" />
     <Build Include="Tables\MarketData.sql" />
+    <Build Include="Tables\Portfolio.sql" />
+    <Build Include="Tables\PortfolioValue.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="PortfolioTracker.Db.refactorlog" />
