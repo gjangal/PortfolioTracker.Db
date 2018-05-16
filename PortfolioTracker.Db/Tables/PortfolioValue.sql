@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [dbo].[PortfolioValue]
 (
-	[Id] INT NOT NULL PRIMARY KEY, 
+	[Id] INT IDENTITY NOT NULL PRIMARY KEY, 
     [PortfolioId] INT NULL, 
     [Value] FLOAT NULL, 
     [AsOf] DATETIME NULL, 
