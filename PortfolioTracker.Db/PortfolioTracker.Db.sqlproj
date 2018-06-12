@@ -67,6 +67,7 @@
     <Build Include="Tables\Portfolio.sql" />
     <Build Include="Tables\PortfolioValue.sql" />
     <Build Include="Tables\Cash.sql" />
+    <Build Include="Tables\CashValue.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="PortfolioTracker.Db.refactorlog" />
